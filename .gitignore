@@ -1,3 +1,7 @@
+.idea/
+.ccls-cache/
+cmake-build-*/
+CMakeLists.txt.*
 # C++ objects and libs
 *.slo
 *.lo
